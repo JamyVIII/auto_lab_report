@@ -1,0 +1,1378 @@
+{
+    "HYP": "A culturally tailored HIV-prevention app can increase HIV testing and PrEP uptake among GBMSM in Malaysia by providing a convenient, private, and stigma-free platform for accessing HIV prevention services.",
+    "EXPT": "A randomized controlled trial (RCT) can be conducted to validate the hypothesis. The experiment would involve recruiting 200 GBMSM in Malaysia and randomly assigning them to either a control group or an intervention group. The intervention group would have access to the adapted HIV-prevention app, while the control group would not. The primary outcome would be the proportion of participants who undergo HIV testing and initiate PrEP within 6 months. The experiment would require: 1) a smartphone app development team to adapt the HealthMindr app for the Malaysian context, 2) a research team to recruit and enroll participants, 3) a data analysis team to analyze the results, and 4) a statistician to conduct the RCT analysis. The steps to follow would be: 1) develop the adapted app, 2) recruit and enroll participants, 3) randomize participants to either the control or intervention group, 4) provide access to the app for the intervention group, 5) collect data on HIV testing and PrEP uptake, and 6) analyze the results."
+}
+{
+    "HYP": "A device designed with human factors engineering and usability principles can increase patient compliance and participation in urine-based cancer screening and diagnosis.",
+    "EXPT": "To validate this hypothesis, a usability study can be conducted to compare the performance of a device designed with human factors engineering and usability principles with a conventional device. The study can involve 50 patients and 20 healthcare professionals who will use both devices to collect and process urine samples. The experiment will assess the following outcomes: (1) patient compliance and participation rates, (2) user experience and satisfaction, (3) sample quality and yield, and (4) time and effort required for sample collection and processing. The study will require the following equipment: (1) a device designed with human factors engineering and usability principles, (2) a conventional device, (3) urine collection containers, (4) sample processing equipment, and (5) survey and questionnaire tools."
+}
+{
+    "HYP": "A digital signage-based online store with a guiding pathway layout will lead to higher customer satisfaction and increased sales compared to other layouts.",
+    "EXPT": {
+        "Objective": "To validate the hypothesis that a guiding pathway layout in a digital signage-based online store leads to higher customer satisfaction and increased sales.",
+        "Equipment": "Digital signage system with touch screen, three different layout designs (tree, pipeline, and guiding pathway), and a survey questionnaire.",
+        "Steps": [
+            "1. Recruit participants and randomly assign them to one of the three layout groups.",
+            "2. Ask participants to use the digital signage system to browse and purchase products.",
+            "3. Measure the time spent in the store, number of products purchased, and customer satisfaction using a survey questionnaire.",
+            "4. Compare the results across the three layout groups to determine which layout leads to higher customer satisfaction and increased sales."
+        ]
+    }
+}
+{
+    "HYP": "A patient-centered, multifaceted intervention that provides education and support to enhance patients' capability and motivation to engage in physical activity will lead to increased adherence to cardiac rehabilitation programs and improved health outcomes for patients with cardiovascular disease.",
+    "EXPT": "A randomized controlled trial to compare the effectiveness of a patient-centered, multifaceted intervention (PATHway) with a standard cardiac rehabilitation program. Participants will be randomly assigned to either the PATHway group or the standard care group. The PATHway group will receive a 12-week home-based cardiac rehabilitation program that includes education and support to enhance capability and motivation, while the standard care group will receive a traditional hospital-based cardiac rehabilitation program. Adherence to the program, physical activity levels, and health outcomes will be measured at baseline, 12 weeks, and 6 months. Required equipment: wearable sensors (e.g. heart rate monitors), mobile devices, and software for data collection and analysis."
+}
+{
+    "HYP": "A user-centered design approach that incorporates feedback from users and experts can lead to a significant improvement in the usability and effectiveness of online services for reporting and seeking help for gender violence, harassment, and bullying.",
+    "EXPT": "To validate this hypothesis, a usability study can be conducted to compare the current website with a newly designed interface. The experiment would require: * 20 participants (10 users and 10 experts) * The current website and the newly designed interface * A usability testing software (e.g. UserTesting, TryMyUI) * A survey questionnaire to gather feedback and opinions Steps to follow: 1. Recruit participants and divide them into two groups: users and experts. 2. Ask each participant to complete a series of tasks on both the current website and the newly designed interface, such as finding information on reporting a complaint or seeking help. 3. Record the participants' interactions with the websites using the usability testing software. 4. Ask participants to complete a survey questionnaire to gather feedback and opinions on the usability, accessibility, and effectiveness of both websites. 5. Analyze the results to compare the usability and effectiveness of the current website with the newly designed interface."
+}
+{
+    "HYP": "By applying design thinking principles, the user experience of an online insurance website can be significantly improved, leading to increased user engagement and trust.",
+    "EXPT": {
+        "Title": "Design Thinking Intervention on User Experience of Online Insurance Website",
+        "Objective": "To investigate the effect of design thinking principles on user experience of an online insurance website.",
+        "Equipment": "Computer with internet connection, Superyou.co.id website, design thinking toolkit, user experience survey questionnaire.",
+        "Steps": [
+            "1. Recruit 20 participants and divide them into two groups: control group and experimental group.",
+            "2. Ask both groups to complete a user experience survey questionnaire on the current Superyou.co.id website.",
+            "3. Apply design thinking principles to redesign the Superyou.co.id website.",
+            "4. Ask the experimental group to complete the user experience survey questionnaire on the redesigned website.",
+            "5. Compare the results of the two groups to determine the effect of design thinking principles on user experience."
+        ]
+    }
+}
+{
+    "HYP": "Citizens' design choices in urban planning are influenced by their individual values and preferences, which can be effectively captured and integrated into the design process through design space exploration.",
+    "EXPT": {
+        "Title": "Validating the Influence of Citizens' Values on Design Choices",
+        "Objective": "To investigate the relationship between citizens' values and their design choices in urban planning.",
+        "Equipment": "Beta.Speckle online interface, Grasshopper and Rhino software, survey questionnaire",
+        "Steps": [
+            "Recruit 50 citizens with diverse backgrounds and values",
+            "Ask participants to complete a survey questionnaire to assess their values and preferences",
+            "Provide participants with access to the Beta.Speckle online interface and ask them to explore and select their preferred urban design options",
+            "Analyze the relationship between participants' values and their design choices using statistical analysis",
+            "Compare the results with a control group that did not complete the survey questionnaire"
+        ]
+    }
+}
+{
+    "HYP": "Customization of interface elements based on individual user preferences can increase user participation and engagement in computer-based interventions for computer vision syndrome.",
+    "EXPT": {
+        "Objective": "To validate the hypothesis that customization of interface elements based on individual user preferences can increase user participation and engagement in computer-based interventions for computer vision syndrome.",
+        "Equipment": "Computers with LiquidEye software, survey questionnaires, and eye tracking devices.",
+        "Steps": [
+            "Recruit 20 participants with computer vision syndrome and randomly assign them to two groups: a control group with a standard interface and an experimental group with a customizable interface.",
+            "Ask participants to use the LiquidEye software for 2 weeks and complete survey questionnaires at the beginning and end of the study.",
+            "Use eye tracking devices to measure user engagement and participation in the intervention.",
+            "Compare the results between the control and experimental groups to determine if customization of interface elements increases user participation and engagement."
+        ]
+    }
+}
+{
+    "HYP": "Customization options in digital games can increase player engagement and overall satisfaction by providing a sense of ownership and control over the gaming experience.",
+    "EXPT": {
+        "Title": "Customization and Player Engagement",
+        "Objective": "To investigate the effect of customization options on player engagement and satisfaction in digital games.",
+        "Equipment": "A digital game with customizable elements (e.g., character appearance, abilities, and environment), a control group without customization options, and a survey to measure player engagement and satisfaction.",
+        "Steps": [
+            "Recruit participants and randomly assign them to either the control group or the customization group.",
+            "Have participants play the game for a set amount of time (e.g., 30 minutes).",
+            "Administer a survey to measure player engagement and satisfaction.",
+            "Compare the results between the control group and the customization group to determine if customization options have a significant impact on player engagement and satisfaction."
+        ]
+    }
+}
+{
+    "HYP": "Customization options in games can increase player engagement and overall gaming experience by providing a sense of ownership and control over the game environment.",
+    "EXPT": {
+        "TITLE": "The Impact of Customization on Player Engagement",
+        "OBJECTIVE": "To investigate the effect of customization options on player engagement and overall gaming experience.",
+        "EQUIPMENT": "A computer or gaming console with a customizable game, survey software, and a sample of participants.",
+        "STEPS": [
+            "Recruit a sample of participants and divide them into two groups: a control group with limited customization options and an experimental group with extensive customization options.",
+            "Have participants play the game for a set amount of time and complete a survey to assess their engagement and overall gaming experience.",
+            "Compare the results between the two groups to determine if the experimental group shows higher levels of engagement and satisfaction.",
+            "Conduct follow-up surveys to assess the long-term impact of customization on player engagement."
+        ]
+    }
+}
+{
+    "HYP": "Customizing the on-screen design of electronic prescribing systems to reduce information overload and improve the visibility of critical information can reduce medication errors and improve patient safety.",
+    "EXPT": {
+        "Title": "Customized On-Screen Design and Medication Errors",
+        "Objective": "To investigate the effect of customized on-screen design on medication errors in electronic prescribing systems.",
+        "Equipment": "Electronic prescribing system, eye tracking device, simulation software",
+        "Steps": [
+            "Recruit 20 prescribers with experience using electronic prescribing systems",
+            "Randomly assign participants to one of two groups: control group (standard on-screen design) or intervention group (customized on-screen design)",
+            "Ask participants to complete a series of prescribing tasks using the electronic prescribing system, with the system configured to either the standard or customized on-screen design",
+            "Use eye tracking to record participants' visual attention and behavior during the tasks",
+            "Measure the number of medication errors made by each participant",
+            "Compare the number of medication errors between the control and intervention groups"
+        ]
+    }
+}
+{
+    "HYP": "Designating chatbots as product-specific advisers in a multi-chatbot interface without labels to accentuate expertise may not evoke users to categorize them as product specialists, leading to lower trust and purchase intention.",
+    "EXPT": {
+        "Title": "Evaluating the Effect of Labeling on Trust and Purchase Intention in Multi-Chatbot Interfaces",
+        "Equipment": "Computer with internet access, survey software, and a multi-chatbot interface with and without labels",
+        "Steps": [
+            "Recruit participants and randomly assign them to either a multi-chatbot interface with labels or without labels.",
+            "Ask participants to interact with the assigned interface and complete a survey measuring trust, social presence, and purchase intention.",
+            "Compare the results between the two groups to determine if labeling chatbots as product-specific advisers increases trust and purchase intention."
+        ]
+    }
+}
+{
+    "HYP": "Designing e-commerce user interfaces with a balance of aesthetics and usability can lead to a higher level of user satisfaction and engagement.",
+    "EXPT": {
+        "TITLE": "Validating the WYDISWYG Hypothesis",
+        "OBJECTIVE": "To validate the hypothesis that designing e-commerce user interfaces with a balance of aesthetics and usability can lead to a higher level of user satisfaction and engagement.",
+        "EQUIPMENT": "40 participants, 4 e-commerce websites with varying levels of aesthetics and usability, survey questionnaire, and user interaction tracking software.",
+        "STEPS": [
+            "Recruit 40 participants and divide them into 4 groups.",
+            "Ask each group to interact with one of the 4 e-commerce websites with varying levels of aesthetics and usability.",
+            "Administer a survey questionnaire to measure user satisfaction and engagement.",
+            "Track user interaction using software to measure usability metrics such as time on task and error rate.",
+            "Compare the results across the 4 groups to determine if the website with a balance of aesthetics and usability leads to higher user satisfaction and engagement."
+        ]
+    }
+}
+{
+    "HYP": "Easymap can be used to identify novel genes involved in specific biological processes by rapidly mapping mutations that cause specific phenotypes.",
+    "EXPT": "To validate this hypothesis, an experiment can be designed to identify novel genes involved in plant drought tolerance using Easymap. The experiment would involve: 1) generating a mutant population of Arabidopsis thaliana using EMS mutagenesis, 2) screening the mutants for drought tolerance, 3) selecting mutants that exhibit increased drought tolerance, 4) performing whole-genome sequencing on the selected mutants, 5) using Easymap to identify candidate mutations associated with drought tolerance, 6) validating the candidate genes using gene expression analysis and functional assays. Required equipment: Illumina HiSeq 4000 for whole-genome sequencing, Easymap software, and a plant growth chamber for drought tolerance assays."
+}
+{
+    "HYP": "Farmers with prior experience with tangible interfaces will outperform computer experts with no prior experience with tangible interfaces in terms of efficiency and accuracy when operating agricultural robots.",
+    "EXPT": {
+        "Title": "Evaluating the Effect of Prior Experience with Tangible Interfaces on Performance in Agricultural Robot Operation",
+        "Equipment": "Agricultural robots, tangible interface, mouse-based interface, computer, questionnaire",
+        "Steps": [
+            "Recruit 20 farmers with prior experience with tangible interfaces and 20 computer experts with no prior experience with tangible interfaces.",
+            "Divide each group into two subgroups, one using the tangible interface and the other using the mouse-based interface.",
+            "Ask participants to complete a task of operating two agricultural robots to spray a vineyard field.",
+            "Measure the time to complete the task, number of collisions, and percentage of unsprayed and double-sprayed area.",
+            "Administer a questionnaire to evaluate user satisfaction and perceived error rates.",
+            "Compare the results between the two groups and interfaces."
+        ]
+    }
+}
+{
+    "HYP": "Improving e-service quality and customer value can increase the positive influence of brand image on purchasing decisions at Traveloka online travel agents.",
+    "EXPT": {
+        "Title": "Evaluating the Effect of E-Service Quality and Customer Value on Brand Image Influence",
+        "Objective": "To investigate the effect of improving e-service quality and customer value on the positive influence of brand image on purchasing decisions at Traveloka online travel agents.",
+        "Equipment": "Online survey platform, Traveloka website, and statistical analysis software.",
+        "Steps": [
+            "Recruit 100 participants who have used Traveloka online travel agents.",
+            "Divide participants into two groups: control group and treatment group.",
+            "Provide the treatment group with improved e-service quality and customer value features on the Traveloka website.",
+            "Conduct an online survey to measure the brand image, e-service quality, customer value, and purchasing decisions of both groups.",
+            "Compare the results of both groups using statistical analysis software to determine the effect of improving e-service quality and customer value on the positive influence of brand image on purchasing decisions."
+        ]
+    }
+}
+{
+    "HYP": "Improving price transparency and delivery performance can lead to increased customer satisfaction and retention in online supermarkets.",
+    "EXPT": {
+        "Title": "The Effect of Price Transparency and Delivery Performance on Customer Satisfaction and Retention",
+        "Objective": "To investigate the impact of price transparency and delivery performance on customer satisfaction and retention in online supermarkets.",
+        "Equipment": "Online survey platform, online supermarket website/app, customer database",
+        "Steps": [
+            "1. Recruit 500 online supermarket customers and randomly assign them to one of two groups: a control group and a treatment group.",
+            "2. The treatment group will be provided with a website/app that offers transparent pricing information and a reliable delivery system, while the control group will use the regular website/app.",
+            "3. Measure customer satisfaction and retention rates for both groups over a period of 6 months.",
+            "4. Compare the results between the two groups to determine the effect of price transparency and delivery performance on customer satisfaction and retention."
+        ]
+    }
+}
+{
+    "HYP": "Improving the customer interface of an e-commerce website using the 8C model will increase customer loyalty and retention.",
+    "EXPT": {
+        "Title": "Evaluating the Effect of 8C Customer Interface on Customer Loyalty",
+        "Objective": "To investigate the impact of improving the customer interface of an e-commerce website using the 8C model on customer loyalty and retention.",
+        "Equipment": "E-commerce website, 8C customer interface model, survey questionnaire, statistical analysis software",
+        "Steps": [
+            "1. Select an e-commerce website and implement the 8C customer interface model.",
+            "2. Recruit participants and ask them to use the website for a certain period.",
+            "3. Administer a survey questionnaire to measure customer loyalty and retention before and after the implementation of the 8C model.",
+            "4. Analyze the data using statistical analysis software to compare the results before and after the implementation of the 8C model.",
+            "5. Compare the results with a control group that did not receive the 8C model implementation."
+        ]
+    }
+}
+{
+    "HYP": "Improving the system quality and information quality of university websites can increase the conversion rate of prospective students into enrolled students.",
+    "EXPT": {
+        "Title": "The Effect of System Quality and Information Quality on Conversion Rate of Prospective Students",
+        "Objective": "To investigate the effect of system quality and information quality of university websites on the conversion rate of prospective students into enrolled students.",
+        "Equipment": "University website with varying levels of system quality and information quality, Prospective students, Online application system",
+        "Steps": [
+            "1. Recruit prospective students and randomly assign them to one of three groups: high system quality and high information quality, low system quality and low information quality, and control group.",
+            "2. Measure the conversion rate of prospective students into enrolled students for each group.",
+            "3. Analyze the data using ANOVA and regression analysis to determine the effect of system quality and information quality on conversion rate."
+        ]
+    }
+}
+{
+    "HYP": "Incorporating older adults in the design and development of healthcare technology can lead to increased adoption and effectiveness of technology-enhanced care in AMCs.",
+    "EXPT": {
+        "Title": "Co-Designing Technology-Enhanced Care with Older Adults",
+        "Objective": "To investigate the impact of involving older adults in the design and development of healthcare technology on the adoption and effectiveness of technology-enhanced care in AMCs.",
+        "Methodology": "Recruit 20 older adults (ages 65-85) and 10 healthcare professionals to participate in a co-design workshop. The workshop will involve a series of focus groups and design sessions to develop and refine a technology-enhanced care system. The system will be tested in a pilot study with 100 older adults in an AMC setting. Outcome measures will include user satisfaction, adoption rates, and health outcomes.",
+        "Equipment": "Focus group facilitation materials, design software (e.g. Figma), pilot study infrastructure (e.g. tablets, internet connectivity), survey and evaluation tools.",
+        "Steps": "1. Recruit participants and conduct focus groups to gather requirements and preferences for technology-enhanced care. 2. Conduct design sessions with participants to develop and refine the system. 3. Develop and pilot test the system with 100 older adults in an AMC setting. 4. Evaluate the system's impact on user satisfaction, adoption rates, and health outcomes."
+    }
+}
+{
+    "HYP": "Incorporating seductive interaction and passive presentation elements in m-commerce apps can increase user engagement and ultimately lead to higher sales and brand loyalty.",
+    "EXPT": {
+        "Title": "Seductive Interaction in m-Commerce Apps",
+        "Objective": "To investigate the effect of seductive interaction and passive presentation on user engagement and sales in m-commerce apps.",
+        "Equipment": "Mobile devices with m-commerce apps, eye-tracking software, and survey questionnaires.",
+        "Steps": [
+            "1. Develop two versions of an m-commerce app: one with seductive interaction and passive presentation elements, and one without.",
+            "2. Recruit 100 participants and randomly assign them to use either the seductive app or the non-seductive app.",
+            "3. Use eye-tracking software to track user engagement and interaction with the app.",
+            "4. Administer survey questionnaires to participants to gather data on their perceived brand loyalty and likelihood to make a purchase.",
+            "5. Compare the results between the two groups to determine the effect of seductive interaction and passive presentation on user engagement and sales."
+        ]
+    }
+}
+{
+    "HYP": "Incorporating the three aspects of Error Prevention, System Recovery, and Help and Documentation into the website design will significantly improve user experience and reduce the severity level of UI design issues.",
+    "EXPT": {
+        "Title": "Evaluating the Effect of Enhanced UI Design on User Experience",
+        "Objective": "To validate the hypothesis that incorporating Error Prevention, System Recovery, and Help and Documentation into the website design will improve user experience and reduce UI design issues.",
+        "Equipment": "Computers with internet access, Universitas Papua website with modified UI design, user experience questionnaire, and heuristic evaluation method guidelines.",
+        "Steps": [
+            "1. Recruit 21 participants, including 4 lecturers of Informatics Engineering, to evaluate the modified website.",
+            "2. Ask participants to complete a user experience questionnaire to assess their experience with the modified website.",
+            "3. Conduct a heuristic evaluation of the modified website using the 10 Heuristic Principles method.",
+            "4. Compare the results of the user experience questionnaire and heuristic evaluation with the original study's results.",
+            "5. Analyze the data to determine if the incorporation of Error Prevention, System Recovery, and Help and Documentation into the website design has improved user experience and reduced UI design issues."
+        ]
+    }
+}
+{
+    "HYP": "Participatory design and design thinking can enhance children's creative confidence, social, and emotional learning, leading to improved problem-solving skills and empathy towards bullying victims.",
+    "EXPT": {
+        "Title": "Design Thinking and Bullying Sensitization in Children",
+        "Objective": "To investigate the impact of participatory design and design thinking on children's creative confidence, social, and emotional learning in the context of bullying sensitization.",
+        "Equipment": "Whiteboards, markers, sticky notes, laptops with design software, and a serious game prototype on bullying victimization.",
+        "Steps": [
+            "Recruit 30 children aged 10-12 and divide them into two groups: a control group and an experimental group.",
+            "Conduct a pre-test to assess children's creative confidence, social, and emotional learning using standardized questionnaires and surveys.",
+            "Provide the experimental group with a participatory design workshop, where they will co-design a serious game on bullying victimization using design thinking principles.",
+            "Conduct a post-test to assess children's creative confidence, social, and emotional learning using standardized questionnaires and surveys.",
+            "Compare the results of the control and experimental groups to determine the impact of participatory design and design thinking on children's creative confidence, social, and emotional learning."
+        ]
+    }
+}
+{
+    "HYP": "Passive exoskeletons with user-centered design that incorporate factors such as aesthetics, comfort, and ease of use will lead to higher user acceptance and satisfaction.",
+    "EXPT": {
+        "Title": "User Acceptance of Passive Exoskeletons with User-Centered Design",
+        "Objective": "To investigate the effect of user-centered design on user acceptance and satisfaction of passive exoskeletons.",
+        "Equipment": "Passive exoskeleton prototypes with varying design features (e.g., aesthetics, comfort, ease of use), survey questionnaires, user experience evaluation metrics.",
+        "Steps": [
+            "Recruit participants with mobility impairments or industrial workers who require exoskeleton support.",
+            "Randomly assign participants to use one of the passive exoskeleton prototypes with varying design features.",
+            "Have participants complete a series of tasks while wearing the exoskeleton (e.g., walking, standing, sitting).",
+            "Administer survey questionnaires to assess user experience, acceptance, and satisfaction.",
+            "Compare user experience evaluation metrics (e.g., usability, comfort, aesthetics) across different design features."
+        ]
+    }
+}
+{
+    "HYP": "Personalization and customization options in online grocery shopping platforms can increase customer engagement and loyalty by 20% compared to platforms without such features.",
+    "EXPT": {
+        "Title": "Personalization and Customization in Online Grocery Shopping",
+        "Objective": "To investigate the effect of personalization and customization options on customer engagement and loyalty in online grocery shopping.",
+        "Equipment": "Online grocery shopping platform with personalization and customization features, survey software, and data analysis tools.",
+        "Steps": [
+            "Recruit 100 participants and randomly assign them to either a control group or an experimental group.",
+            "Provide the control group with a standard online grocery shopping experience without personalization and customization options.",
+            "Provide the experimental group with an online grocery shopping experience with personalization and customization options, such as tailored product recommendations and shopping lists.",
+            "Measure customer engagement and loyalty through surveys and behavioral data, such as purchase frequency and average order value, over a period of 6 weeks.",
+            "Compare the results between the control and experimental groups to determine the effect of personalization and customization on customer engagement and loyalty."
+        ]
+    }
+}
+{
+    "HYP": "Personalization in adaptive learning environments can be optimized by incorporating real-time feedback and assessment data to dynamically adjust the learning path and content to individual students' needs and abilities.",
+    "EXPT": {
+        "Title": "Optimizing Personalization in Adaptive Learning Environments",
+        "Objective": "To investigate the effect of real-time feedback and assessment data on the optimization of personalization in adaptive learning environments.",
+        "Equipment": "Adaptive learning software, learning management system, student devices (e.g., laptops, tablets), assessment tools (e.g., quizzes, tests), and feedback mechanisms (e.g., automated grading, teacher feedback).",
+        "Steps": "1. Recruit a sample of students and assign them to either a control group or an experimental group. 2. Develop an adaptive learning module on a specific topic (e.g., mathematics, language arts) with varying levels of difficulty and complexity. 3. Implement real-time feedback and assessment data in the experimental group, using automated grading and teacher feedback to adjust the learning path and content. 4. Compare the learning outcomes, student engagement, and time-on-task between the control and experimental groups. 5. Analyze the data using statistical methods (e.g., ANOVA, regression) to determine the effect of real-time feedback and assessment data on personalization optimization."
+    }
+}
+{
+    "HYP": "Personalized and interactive design features that incorporate elements of gamification and social interaction can increase engagement and motivation in mobile health physical activity interventions among youth from low socioeconomic backgrounds.",
+    "EXPT": "To validate this hypothesis, a randomized controlled trial could be conducted among a sample of youth from low socioeconomic backgrounds. Participants would be randomly assigned to one of two groups: a control group using a standard mobile health physical activity intervention, or an intervention group using a mobile health physical activity intervention with personalized and interactive design features incorporating elements of gamification and social interaction. Engagement and motivation would be measured through surveys and app usage data at baseline, 6 weeks, and 12 weeks. The experiment would require a mobile health physical activity intervention app with personalized and interactive design features, a control app without these features, and survey software. The steps to follow would be: 1) recruit participants and obtain informed consent, 2) randomly assign participants to either the control or intervention group, 3) provide participants with access to the assigned app, 4) collect survey data at baseline, 6 weeks, and 12 weeks, 5) collect app usage data throughout the 12-week period, and 6) analyze the data to compare engagement and motivation between the two groups."
+}
+{
+    "HYP": "Personalized and targeted marketing strategies can increase customer loyalty among Multinational Enterprises in Kenya.",
+    "EXPT": {
+        "Title": "Personalized Marketing Strategies and Customer Loyalty",
+        "Objective": "To investigate the effect of personalized and targeted marketing strategies on customer loyalty among Multinational Enterprises in Kenya.",
+        "Equipment": "Survey questionnaires, online survey platform, and statistical analysis software.",
+        "Steps": [
+            "Recruit 300 participants who are customers of Jumia Kenya.",
+            "Randomly assign participants to either a control group or an experimental group.",
+            "The control group will receive standard marketing messages, while the experimental group will receive personalized and targeted marketing messages.",
+            "Measure customer loyalty using a survey questionnaire after 6 weeks.",
+            "Compare the customer loyalty scores between the control and experimental groups using statistical analysis software."
+        ]
+    }
+}
+{
+    "HYP": "Personalized experiences and loyalty programs can increase customer satisfaction and loyalty in online purchasing behavior, particularly among younger generations.",
+    "EXPT": {
+        "Title": "The Effect of Personalized Experiences and Loyalty Programs on Customer Satisfaction and Loyalty",
+        "Objective": "To investigate the impact of personalized experiences and loyalty programs on customer satisfaction and loyalty in online purchasing behavior.",
+        "Equipment": "Online survey platform, loyalty program software, personalized recommendation algorithm",
+        "Steps": [
+            "Recruit 200 participants aged 18-35 and randomly assign them to one of two groups: a control group and a treatment group.",
+            "Provide the treatment group with personalized product recommendations and loyalty program offers, while the control group receives standard product listings and no loyalty program offers.",
+            "Measure customer satisfaction and loyalty using online surveys and behavioral data (e.g., purchase history, browsing behavior) at three time points: before, during, and after the experiment.",
+            "Compare the results between the two groups to determine the effect of personalized experiences and loyalty programs on customer satisfaction and loyalty."
+        ]
+    }
+}
+{
+    "HYP": "Personalized service and better display of product information can significantly improve user experience and increase user satisfaction in mobile terminals for furniture shopping.",
+    "EXPT": {
+        "Title": "Evaluating the Effect of Personalized Service and Product Information on User Experience in Mobile Terminals for Furniture Shopping",
+        "Equipment": "Mobile devices with furniture shopping apps, user experience evaluation software",
+        "Steps": [
+            "Recruit 100 participants with furniture shopping needs",
+            "Divide participants into two groups: control group and experimental group",
+            "Provide the control group with a standard furniture shopping app, and the experimental group with a personalized furniture shopping app with better display of product information",
+            "Ask participants to complete a series of tasks on the app, such as searching for products and making a purchase",
+            "Evaluate user experience using user experience evaluation software and surveys",
+            "Compare the results between the control group and experimental group to determine the effect of personalized service and product information on user experience"
+        ]
+    }
+}
+{
+    "HYP": "Providing patients with real-time information about their ED journey through a patient-centered information system like myED can reduce anxiety and improve patient satisfaction in the ED.",
+    "EXPT": {
+        "Title": "The Effect of myED on Patient Anxiety and Satisfaction in the ED",
+        "Objective": "To investigate the effect of myED on patient anxiety and satisfaction in the ED.",
+        "Design": "Randomized controlled trial",
+        "Participants": "500 patients presenting to the ED",
+        "Intervention": "Patients will be randomly assigned to either the myED group or a control group. The myED group will have access to the myED system, while the control group will not.",
+        "Outcome Measures": "Patient anxiety levels will be measured using a standardized anxiety scale, and patient satisfaction will be measured using a standardized satisfaction survey.",
+        "Equipment": "myED system, anxiety scale, satisfaction survey",
+        "Steps": "1. Patients will be recruited and randomly assigned to either the myED group or the control group. 2. Patients in the myED group will be given access to the myED system. 3. Patient anxiety levels and satisfaction will be measured at baseline, 30 minutes after arrival, and at discharge. 4. Data will be analyzed using t-tests and regression analysis."
+    }
+}
+{
+    "HYP": "Restaurant partners' satisfaction with FDAs is positively correlated with the perceived value of owning customer data, revenue sharing, and competitive advantage.",
+    "EXPT": {
+        "Objective": "To validate the hypothesis that restaurant partners' satisfaction with FDAs is positively correlated with the perceived value of owning customer data, revenue sharing, and competitive advantage.",
+        "Design": "Survey research design",
+        "Participants": "200 restaurant partners who use FDAs",
+        "Equipment": "Online survey platform, questionnaire",
+        "Steps": [
+            "Develop a questionnaire to measure restaurant partners' satisfaction with FDAs and their perceived value of owning customer data, revenue sharing, and competitive advantage.",
+            "Distribute the questionnaire to 200 restaurant partners who use FDAs.",
+            "Collect and analyze the data using statistical software.",
+            "Correlate the satisfaction scores with the perceived value scores to test the hypothesis."
+        ]
+    }
+}
+{
+    "HYP": "Since the paper's content is not provided, a novel hypothesis cannot be inferred. However, a general hypothesis related to administration and management could be: 'The implementation of artificial intelligence in management decision-making processes can lead to improved organizational efficiency and productivity.'",
+    "EXPT": {
+        "TITLE": "Evaluating the Effectiveness of AI in Management Decision-Making",
+        "OBJECTIVE": "To investigate the impact of artificial intelligence on organizational efficiency and productivity in management decision-making processes.",
+        "EQUIPMENT": [
+            "Computer systems with AI software",
+            "Management decision-making simulation software",
+            "Data analysis tools"
+        ],
+        "STEPS": [
+            "Recruit 100 participants with management experience and divide them into two groups: AI-assisted and non-AI-assisted.",
+            "Provide both groups with a management decision-making simulation scenario and ask them to make decisions.",
+            "Use AI software to assist the AI-assisted group in making decisions.",
+            "Compare the decision-making time, accuracy, and outcome of both groups.",
+            "Analyze the data using statistical tools to determine the significance of the results."
+        ]
+    }
+}
+{
+    "HYP": "Sustainable web design can positively influence consumer purchase decisions and reduce carbon footprint in e-commerce.",
+    "EXPT": {
+        "Title": "Assessing the Impact of Sustainable Web Design on Consumer Purchase Decisions",
+        "Objective": "To investigate whether sustainable web design can positively influence consumer purchase decisions and reduce carbon footprint in e-commerce.",
+        "Equipment": "Online survey platform, website design software, carbon footprint calculator",
+        "Steps": [
+            "1. Design two versions of an e-commerce website: one with sustainable design features (e.g., green hosting, reduced image sizes, eco-friendly content) and one without.",
+            "2. Recruit participants and randomly assign them to either the sustainable design or control group.",
+            "3. Ask participants to complete an online survey assessing their purchase intentions, attitudes towards sustainability, and perceived website quality.",
+            "4. Calculate the carbon footprint of each website using a carbon footprint calculator.",
+            "5. Compare the results between the two groups to determine if sustainable web design has a positive impact on consumer purchase decisions and carbon footprint reduction."
+        ]
+    }
+}
+{
+    "HYP": "The LEAP Motion controller can enhance the learning experience in educational simulations by providing a more immersive and interactive environment.",
+    "EXPT": {
+        "TITLE": "Evaluating the Effectiveness of the LEAP Motion Controller in Educational Simulations",
+        "OBJECTIVE": "To investigate the impact of the LEAP Motion controller on student engagement and learning outcomes in educational simulations.",
+        "EQUIPMENT": "LEAP Motion controller, VR/AR software, computer, educational simulation software",
+        "STEPS": [
+            "Recruit participants and divide them into two groups: one using the LEAP Motion controller and the other using traditional input methods.",
+            "Have participants complete a series of educational simulations using their assigned input method.",
+            "Measure participant engagement and learning outcomes using surveys, quizzes, and performance metrics.",
+            "Compare the results between the two groups to determine the effectiveness of the LEAP Motion controller."
+        ]
+    }
+}
+{
+    "HYP": "The adoption of data-driven services by municipalities and companies can lead to improved decision-making, increased transparency, and enhanced accountability, ultimately resulting in better outcomes for citizens and customers.",
+    "EXPT": "To validate this hypothesis, a controlled experiment can be designed to compare the decision-making processes and outcomes of municipalities and companies that have adopted data-driven services with those that have not. The experiment would require: * A sample of 20 municipalities and 20 companies, divided into two groups: a treatment group that adopts data-driven services and a control group that does not. * A data collection platform to gather data on decision-making processes and outcomes, such as policy decisions, resource allocation, and citizen satisfaction. * A survey instrument to assess the level of transparency and accountability in each municipality and company. * A statistical analysis software to compare the outcomes of the treatment and control groups. Steps to follow: 1. Recruit participants and assign them to either the treatment or control group. 2. Provide training and support to the treatment group on the adoption of data-driven services. 3. Collect data on decision-making processes and outcomes over a period of 6 months. 4. Administer the survey instrument to assess transparency and accountability. 5. Analyze the data using statistical software to compare the outcomes of the treatment and control groups. 6. Draw conclusions on the effectiveness of data-driven services in improving decision-making, transparency, and accountability."
+}
+{
+    "HYP": "The anchoring effect of product information on consumer purchase behavior can be mitigated by providing consumers with more detailed and informative product information.",
+    "EXPT": {
+        "Objective": "To validate the hypothesis that providing consumers with more detailed and informative product information can mitigate the anchoring effect on consumer purchase behavior.",
+        "Equipment": "Online survey platform, product information datasets with varying levels of detail and informativeness, and a sample of participants with diverse demographic backgrounds.",
+        "Steps": [
+            "Recruit participants and randomly assign them to one of two groups: a control group and a treatment group.",
+            "Present participants in the control group with product information with low levels of detail and informativeness, and participants in the treatment group with product information with high levels of detail and informativeness.",
+            "Measure participants' purchase intentions and anchoring effects using surveys and behavioral data.",
+            "Compare the results between the control and treatment groups to determine if providing more detailed and informative product information mitigates the anchoring effect on consumer purchase behavior."
+        ]
+    }
+}
+{
+    "HYP": "The deployment of SLEETs with visual interfaces can lead to higher user engagement and energy savings compared to SLEETs with numeric interfaces.",
+    "EXPT": {
+        "Title": "Comparing the Effectiveness of SLEETs with Visual and Numeric Interfaces",
+        "Objective": "To investigate whether SLEETs with visual interfaces lead to higher user engagement and energy savings compared to SLEETs with numeric interfaces.",
+        "Equipment": "Two types of SLEETs with identical functionality but different interfaces (visual and numeric), 100 participants, energy meters, and survey questionnaires.",
+        "Steps": "1. Recruit 100 participants and randomly assign them to use either a visual or numeric SLEET for 6 months. 2. Monitor energy consumption and user engagement (e.g., frequency of logins, duration of use) for both groups. 3. Conduct surveys to assess user experience and satisfaction. 4. Compare energy savings and user engagement between the two groups."
+    }
+}
+{
+    "HYP": "The effective application of BI technology can lead to significant improvements in user satisfaction and business performance in the e-commerce industry.",
+    "EXPT": {
+        "TITLE": "Assessing the Impact of BI Technology on User Satisfaction in E-commerce",
+        "OBJECTIVE": "To investigate the effect of BI technology on user satisfaction in the e-commerce industry.",
+        "METHODS": [
+            "Select 100 e-commerce companies, 50 with BI technology implementation and 50 without.",
+            "Conduct surveys to measure user satisfaction among customers of each company.",
+            "Compare the user satisfaction ratings between the two groups.",
+            "Analyze the data using statistical methods to determine the significance of the results."
+        ],
+        "EQUIPMENT": [
+            "Survey software (e.g., SurveyMonkey)",
+            "Statistical analysis software (e.g., R, Python)",
+            "Computers and internet access"
+        ]
+    }
+}
+{
+    "HYP": "The effective use of data science in digital marketing can lead to improved customer engagement and increased sales during the post-COVID-19 era.",
+    "EXPT": {
+        "TITLE": "The Impact of Data Science on Customer Engagement in Digital Marketing",
+        "OBJECTIVE": "To investigate the effect of data science on customer engagement in digital marketing during the post-COVID-19 era.",
+        "METHODS": [
+            "Recruit 100 participants and randomly assign them to two groups: a control group and a treatment group.",
+            "The control group will receive traditional digital marketing messages, while the treatment group will receive personalized messages based on data science analysis.",
+            "Measure customer engagement metrics, such as click-through rates, conversion rates, and customer satisfaction, for both groups.",
+            "Compare the results between the two groups to determine the effect of data science on customer engagement."
+        ],
+        "EQUIPMENT": [
+            "Computer with internet access",
+            "Data science software (e.g. Python, R, or Excel)",
+            "Digital marketing platform (e.g. social media, email marketing software)"
+        ]
+    }
+}
+{
+    "HYP": "The implementation of an e-commerce-based sales information system can increase the sales revenue of the Mass Furniture Store by at least 20% within the first six months of operation.",
+    "EXPT": {
+        "TITLE": "E-commerce-based Sales Information System Effectiveness Experiment",
+        "EQUIPMENT": [
+            "Computer with internet connection",
+            "PHP and MySQL software",
+            "Mass Furniture Store sales data"
+        ],
+        "STEPS": [
+            "1. Develop and implement the e-commerce-based sales information system for the Mass Furniture Store.",
+            "2. Collect sales data for six months prior to the implementation of the system.",
+            "3. Collect sales data for six months after the implementation of the system.",
+            "4. Compare the sales revenue of the two periods to determine if there is a significant increase.",
+            "5. Analyze the data to determine the effectiveness of the system in increasing sales revenue."
+        ]
+    }
+}
+{
+    "HYP": "The implementation of digitalization methods and tools in an enterprise leads to increased productivity, reduced costs, and improved competitiveness in the market.",
+    "EXPT": "To validate this hypothesis, an experiment can be designed as follows: 1. Select a group of enterprises from different industries that have not implemented digitalization methods and tools. 2. Implement digitalization methods and tools in these enterprises, such as cloud-based data storage, electronic document management, and ERP. 3. Measure the productivity, costs, and competitiveness of these enterprises before and after the implementation of digitalization methods and tools. 4. Compare the results with a control group of enterprises that have not implemented digitalization methods and tools. 5. Analyze the data using statistical methods to determine the significance of the results. Required equipment: - Cloud-based data storage software - Electronic document management software - ERP software - Productivity and cost measurement tools - Competitiveness assessment tools Steps to follow: 1. Select the enterprises and implement digitalization methods and tools. 2. Collect data on productivity, costs, and competitiveness before and after implementation. 3. Analyze the data using statistical methods. 4. Compare the results with the control group. 5. Draw conclusions and validate the hypothesis."
+}
+{
+    "HYP": "The implementation of user-centered design elements and usability improvements in MOOC discussion forums can significantly improve learners' navigation efficiency and overall satisfaction with the learning experience.",
+    "EXPT": {
+        "Title": "Validating the Effectiveness of User-Centered Design Elements in MOOC Discussion Forums",
+        "Objective": "To investigate the impact of user-centered design elements on learners' navigation efficiency and overall satisfaction with the learning experience in MOOC discussion forums.",
+        "Equipment": "MOOC platform with discussion forum feature, user-centered design elements (e.g. clear categorization, easy-to-use interface), usability testing software (e.g. UserTesting, TryMyUI), survey questionnaire.",
+        "Steps": [
+            "1. Recruit 100 participants and randomly assign them to either a control group (traditional discussion forum design) or an experimental group (user-centered design elements).",
+            "2. Ask participants to complete a series of tasks on the discussion forum, such as finding specific information, posting a comment, and responding to a peer's post.",
+            "3. Use usability testing software to record participants' interactions with the discussion forum and measure navigation efficiency (e.g. time taken to complete tasks, number of clicks).",
+            "4. Administer a survey questionnaire to participants to measure their overall satisfaction with the learning experience and perceived usability of the discussion forum.",
+            "5. Compare the results between the control and experimental groups to determine the effectiveness of user-centered design elements in improving learners' navigation efficiency and overall satisfaction."
+        ]
+    }
+}
+{
+    "HYP": "The incorporation of advanced computational and artificial intelligence methods can supplement the support provided by moderators/clinicians and automate user-tailored therapy, leading to improved engagement and outcomes for users.",
+    "EXPT": {
+        "Title": "Evaluating the Efficacy of AI-Assisted Online Social Therapy",
+        "Objective": "To investigate the effectiveness of AI-assisted online social therapy in improving engagement and outcomes for youth with mental health conditions.",
+        "Design": "Randomized controlled trial",
+        "Participants": "100 youth with mental health conditions",
+        "Intervention": "MOST platform with AI-assisted therapy content delivery",
+        "Control": "MOST platform with standard therapy content delivery",
+        "Outcome Measures": "User engagement, symptom severity, and quality of life",
+        "Equipment": "Computers or mobile devices with internet access, MOST platform software",
+        "Steps": "1. Recruit participants and randomly assign to intervention or control group. 2. Participants complete baseline assessments. 3. Participants access the MOST platform for 12 weeks. 4. Participants complete follow-up assessments at 12 weeks and 24 weeks. 5. Compare outcomes between intervention and control groups."
+    }
+}
+{
+    "HYP": "The integration of QR Code technology on the MC Swimming Pool website will significantly reduce waiting times and increase operational efficiency during peak periods.",
+    "EXPT": {
+        "TITLE": "QR Code Technology Integration Experiment",
+        "OBJECTIVE": "To validate the hypothesis that the integration of QR Code technology on the MC Swimming Pool website reduces waiting times and increases operational efficiency during peak periods.",
+        "EQUIPMENT": "MC Swimming Pool website with QR Code technology integration, stopwatch, queue management software, and user feedback survey forms.",
+        "STEPS": [
+            "1. Implement QR Code technology on the MC Swimming Pool website.",
+            "2. Measure waiting times and operational efficiency during peak periods without QR Code technology integration.",
+            "3. Measure waiting times and operational efficiency during peak periods with QR Code technology integration.",
+            "4. Compare the results from steps 2 and 3 to determine the impact of QR Code technology integration.",
+            "5. Conduct user feedback surveys to assess user experience and satisfaction."
+        ]
+    }
+}
+{
+    "HYP": "The integration of an online store with a company's corporate information system can lead to a significant increase in online sales and customer satisfaction.",
+    "EXPT": {
+        "TITLE": "Measuring the Effect of Online Store Integration on Sales and Customer Satisfaction",
+        "OBJECTIVE": "To validate the hypothesis that the integration of an online store with a company's corporate information system can lead to a significant increase in online sales and customer satisfaction.",
+        "EQUIPMENT": "Online store platform, corporate information system, sales data tracking software, customer satisfaction survey tool.",
+        "STEPS": [
+            "1. Develop an online store and integrate it with the company's corporate information system.",
+            "2. Collect sales data for a period of 6 months before and after the integration.",
+            "3. Conduct customer satisfaction surveys before and after the integration.",
+            "4. Compare the sales data and customer satisfaction ratings before and after the integration.",
+            "5. Analyze the results to determine if there is a significant increase in online sales and customer satisfaction."
+        ]
+    }
+}
+{
+    "HYP": "The integration of industrial design principles in robotics can lead to more efficient and user-friendly robots that are better suited to meet the needs of a wider range of users.",
+    "EXPT": "To validate this hypothesis, an experiment could be conducted to compare the performance and user experience of the redesigned SCARA robot with a traditional SCARA robot. The experiment would require: * Two SCARA robots: one with the traditional design and one with the redesigned industrial design approach * A group of users with varying levels of experience with robots * A set of tasks that require the users to interact with the robots * A survey or questionnaire to gather user feedback on the usability and efficiency of the robots The experiment would involve having the users complete the tasks with both robots and then completing the survey or questionnaire to gather their feedback. The results would be analyzed to compare the performance and user experience of the two robots."
+}
+{
+    "HYP": "The integration of multiple microscopy modalities can provide a more comprehensive understanding of complex biological and materials systems by enabling the correlation of structural, chemical, and dynamic information at the nanoscale.",
+    "EXPT": "To validate this hypothesis, a experiment could be designed to use the NanoRacer high-speed AFM to image the dynamics of protein-protein interactions on a cell membrane, while simultaneously using the Lattice Lightsheet 7 to visualize the 3D structure of the cell. The resulting data could be correlated with cryo-EM data obtained using the METEOR system to provide a comprehensive understanding of the structural and dynamic properties of the system. Required equipment: NanoRacer high-speed AFM, Lattice Lightsheet 7, METEOR cryo-CLEM system, and a cryo-EM microscope. Steps: 1) Prepare a cell sample with fluorescently labeled proteins, 2) Use the NanoRacer to image the dynamics of protein-protein interactions, 3) Use the Lattice Lightsheet 7 to visualize the 3D structure of the cell, 4) Use the METEOR system to obtain cryo-EM data, 5) Correlate the data from the three modalities to gain a comprehensive understanding of the system."
+}
+{
+    "HYP": "The integration of music in Instagram's content delivery mechanism has a significant impact on user engagement and brand awareness.",
+    "EXPT": {
+        "TITLE": "The Effect of Music Integration on User Engagement and Brand Awareness on Instagram",
+        "OBJECTIVE": "To investigate the impact of music integration on user engagement and brand awareness on Instagram.",
+        "EQUIPMENT": "Instagram accounts, music integration feature, user engagement metrics (e.g. likes, comments, shares), brand awareness metrics (e.g. brand recognition, brand recall)",
+        "STEPS": [
+            "1. Create two identical Instagram accounts, one with music integration and one without.",
+            "2. Post identical content on both accounts for a period of 6 weeks.",
+            "3. Measure user engagement metrics (e.g. likes, comments, shares) for both accounts.",
+            "4. Conduct a survey to measure brand awareness metrics (e.g. brand recognition, brand recall) for both accounts.",
+            "5. Compare the results to determine the impact of music integration on user engagement and brand awareness."
+        ]
+    }
+}
+{
+    "HYP": "The integration of offline experience and online platform can increase user trust and satisfaction in the second-hand trading market.",
+    "EXPT": {
+        "Title": "Offline-Online Integration Experiment",
+        "Objective": "To investigate the effect of integrating offline experience and online platform on user trust and satisfaction in the second-hand trading market.",
+        "Equipment": "Offline stores, online platform, survey questionnaires, and statistical analysis software.",
+        "Steps": [
+            "1. Select a sample of users who have made purchases on Zhuanzhuan's online platform.",
+            "2. Divide the sample into two groups: one group will receive offline experience (e.g., visiting a physical store) and the other group will not.",
+            "3. Measure user trust and satisfaction through survey questionnaires before and after the experiment.",
+            "4. Compare the results between the two groups using statistical analysis software.",
+            "5. Analyze the results to determine if the integration of offline experience and online platform increases user trust and satisfaction."
+        ]
+    }
+}
+{
+    "HYP": "The integration of online and offline service design can increase the sales and recycling rate of food nearing its expiration date by at least 20% compared to traditional offline-only methods.",
+    "EXPT": {
+        "Objective": "To validate the hypothesis that the integration of online and offline service design can increase the sales and recycling rate of food nearing its expiration date.",
+        "Equipment": "Convenience stores with online platforms, sales data tracking software, and survey questionnaires.",
+        "Steps": [
+            "Select 10 convenience stores with online platforms and 10 convenience stores without online platforms as control groups.",
+            "Implement the integrated online and offline service design system in the 10 convenience stores with online platforms.",
+            "Track sales data and customer behavior for 6 months.",
+            "Conduct surveys to gather customer feedback and opinions on the service design system.",
+            "Compare the sales and recycling rate of food nearing its expiration date between the two groups and analyze the results."
+        ]
+    }
+}
+{
+    "HYP": "The integration of sleep data from multiple sources into a single platform can facilitate the discovery of novel relationships between sleep patterns and health outcomes.",
+    "EXPT": {
+        "TITLE": "Investigating the relationship between sleep patterns and cardiovascular disease",
+        "OBJECTIVE": "To identify novel sleep patterns associated with cardiovascular disease using the NSRR dataset.",
+        "EQUIPMENT": "Access to the NSRR dataset, computational resources for data analysis, and statistical software (e.g. R, Python).",
+        "STEPS": [
+            "1. Download and preprocess the NSRR dataset, focusing on sleep patterns and cardiovascular disease-related variables.",
+            "2. Apply machine learning algorithms (e.g. clustering, regression) to identify novel sleep patterns associated with cardiovascular disease.",
+            "3. Validate the findings using traditional statistical methods (e.g. logistic regression, Cox proportional hazards model).",
+            "4. Perform sensitivity analysis to assess the robustness of the results."
+        ]
+    }
+}
+{
+    "HYP": "The more customers are involved in the co-creation process, the more likely they are to purchase products or services from the company.",
+    "EXPT": {
+        "TITLE": "Co-Creation and Purchase Intention Experiment",
+        "OBJECTIVE": "To investigate the relationship between customer involvement in co-creation and purchase intention.",
+        "METHODS": "Recruit 100 participants and randomly assign them to one of two groups: a high-involvement group and a low-involvement group. The high-involvement group will be asked to participate in a co-creation activity, such as designing a product, while the low-involvement group will only be asked to provide feedback on a pre-designed product. After the activity, measure the participants' purchase intention using a survey. Compare the results between the two groups.",
+        "EQUIPMENT": "Computers or mobile devices with internet access, survey software, and product design tools.",
+        "STEPS": "1. Recruit participants and assign them to groups. 2. Conduct the co-creation activity or feedback session. 3. Administer the survey to measure purchase intention. 4. Analyze the results and compare between groups."
+    }
+}
+{
+    "HYP": "The optimal dimensions of the human-machine interface can be evolved based on drivers' perceptual judgment and preference, leading to improved take-over performance and traffic efficiency.",
+    "EXPT": {
+        "TITLE": "Validation of Evolved Dimensions on Take-Over Performance",
+        "EQUIPMENT": "Driving simulator, 3D printer, and laptop",
+        "STEPS": [
+            "1. Recruit 13 subjects and ask them to complete take-over tasks on a driving simulator with the original HMI.",
+            "2. Collect the completion time and error times of the subjects during the seven take-over tasks.",
+            "3. Use the collected data to evolve the optimal dimensions of the HMI using genetic algorithm.",
+            "4. Create new models of the side stalk and buttons with the evolved dimensions using a 3D printer.",
+            "5. Ask the same subjects to complete the same take-over tasks on the driving simulator with the new HMI.",
+            "6. Compare the completion time and error times of the subjects between the original and new HMI."
+        ]
+    }
+}
+{
+    "HYP": "The persuasiveness of LMS interfaces is positively correlated with student engagement and motivation in online learning.",
+    "EXPT": {
+        "Title": "Investigating the Effect of Persuasive LMS Interfaces on Student Engagement",
+        "Equipment": "LMS platform, survey questionnaire, user engagement tracking software",
+        "Steps": [
+            "1. Recruit 100 students to participate in the study.",
+            "2. Randomly assign students to use either a persuasive LMS interface or a non-persuasive LMS interface.",
+            "3. Track student engagement metrics (e.g., login frequency, time spent on the platform, course completion rate) over a 6-week period.",
+            "4. Administer a survey questionnaire to students at the end of the 6-week period to assess their motivation and satisfaction with the LMS.",
+            "5. Compare the engagement metrics and survey results between the two groups to determine if the persuasive LMS interface has a positive effect on student engagement and motivation."
+        ]
+    }
+}
+{
+    "HYP": "The prestige factor in EV purchasing decisions can be increased by emphasizing the exclusive and modern image of EVs in marketing campaigns.",
+    "EXPT": {
+        "Title": "Prestige-focused Marketing Campaign Experiment",
+        "Objective": "To investigate the effect of prestige-focused marketing campaigns on EV purchasing decisions.",
+        "Equipment": "Online survey platform, social media advertising tools, EV marketing materials.",
+        "Steps": [
+            "1. Design two sets of marketing materials for EVs: one emphasizing environmental benefits and one emphasizing prestige and exclusivity.",
+            "2. Recruit 100 participants and randomly assign them to one of the two marketing material groups.",
+            "3. Ask participants to complete an online survey assessing their attitudes towards EVs and their likelihood of purchasing an EV.",
+            "4. Analyze the results to compare the effect of the two marketing approaches on EV purchasing decisions."
+        ]
+    }
+}
+{
+    "HYP": "The sense of collective engagement in SO increases viewers' level of arousal, which compensates for the higher concentration required to process comments and video content simultaneously.",
+    "EXPT": {
+        "Title": "Investigating the Effect of Collective Engagement on Arousal in Synchronous Overlay Commenting",
+        "Equipment": "Eye-tracking device, heart rate monitor, video player with SO commenting mechanism, video clips with comments",
+        "Steps": [
+            "Recruit 20 participants and divide them into two groups: one watching video clips with SO commenting and the other watching the same clips without comments.",
+            "Use eye-tracking device to measure participants' attention to comments and video content.",
+            "Use heart rate monitor to measure participants' arousal level.",
+            "Ask participants to complete a memory test for comments and video content after watching each clip.",
+            "Compare the results between the two groups to determine if the sense of collective engagement in SO increases arousal and compensates for the higher concentration required."
+        ]
+    }
+}
+{
+    "HYP": "The use of 'sticky words' (words that are familiar, novel, and emotive) in digital content can increase user engagement and motivation to consume the content.",
+    "EXPT": {
+        "TITLE": "Evaluating the Effect of 'Sticky Words' on User Engagement",
+        "OBJECTIVE": "To investigate the impact of 'sticky words' on user engagement with digital content.",
+        "METHODS": [
+            "Recruit 200 participants and randomly assign them to two groups: a control group and a treatment group.",
+            "Prepare two sets of digital content (e.g. academic titles) with identical meaning but differing in the use of 'sticky words'.",
+            "Ask participants to evaluate the content using the User Engagement Scale (UES).",
+            "Compare the UES scores between the control and treatment groups."
+        ],
+        "EQUIPMENT": [
+            "Computers or mobile devices with internet access",
+            "UES questionnaire",
+            "Digital content with and without 'sticky words'"
+        ],
+        "EXPECTED OUTCOME": "The treatment group will show higher UES scores, indicating increased user engagement, compared to the control group."
+    }
+}
+{
+    "HYP": "The use of AI-powered dropshipping platforms can lead to a significant increase in the success rate of dropshipping businesses, resulting in a more robust and sustainable e-commerce ecosystem.",
+    "EXPT": {
+        "TITLE": "Evaluating the Effectiveness of AI-Powered Dropshipping Platforms",
+        "OBJECTIVE": "To compare the success rate of dropshipping businesses using AI-powered platforms versus traditional methods.",
+        "REQUIRED EQUIPMENT": "AI-powered dropshipping platform, traditional dropshipping tools, e-commerce website, product data, customer data",
+        "STEPS": [
+            "Recruit 100 participants with dropshipping experience and divide them into two groups: one using the AI-powered platform and the other using traditional methods.",
+            "Provide both groups with the same product data and customer data.",
+            "Monitor and record the success rate of each group over a period of 6 months, including metrics such as sales, customer satisfaction, and profit margins.",
+            "Compare the results of both groups and analyze the data to determine the effectiveness of the AI-powered platform."
+        ]
+    }
+}
+{
+    "HYP": "The use of AI-powered personalized recommendations in e-business can lead to a significant increase in customer loyalty and retention.",
+    "EXPT": {
+        "TITLE": "AI-Powered Personalized Recommendations and Customer Loyalty",
+        "OBJECTIVE": "To investigate the effect of AI-powered personalized recommendations on customer loyalty and retention in e-business.",
+        "EQUIPMENT": "E-commerce platform with AI-powered recommendation system, customer data, and loyalty program metrics.",
+        "STEPS": [
+            "1. Randomly assign customers to either a control group or an experimental group.",
+            "2. The control group receives standard product recommendations, while the experimental group receives AI-powered personalized recommendations.",
+            "3. Measure customer loyalty and retention metrics (e.g., repeat purchases, customer satisfaction) over a 6-month period.",
+            "4. Compare the loyalty and retention metrics between the control and experimental groups."
+        ]
+    }
+}
+{
+    "HYP": "The use of AR applications with customized heuristics can improve the design process by reducing the time taken to complete tasks and increasing user satisfaction.",
+    "EXPT": {
+        "TITLE": "Evaluating the Effectiveness of AR Applications with Customized Heuristics",
+        "OBJECTIVE": "To validate the hypothesis that the use of AR applications with customized heuristics can improve the design process.",
+        "EQUIPMENT": "AR devices, interior design software, and a set of customized heuristics.",
+        "STEPS": [
+            "Recruit 20 participants with interior design experience.",
+            "Divide participants into two groups: one using an AR application with customized heuristics and the other using a traditional design software.",
+            "Ask participants to complete a set of design tasks using their assigned tool.",
+            "Measure the time taken to complete each task and collect user feedback through surveys and interviews.",
+            "Compare the results between the two groups to evaluate the effectiveness of the AR application with customized heuristics."
+        ]
+    }
+}
+{
+    "HYP": "The use of AR can reduce the cognitive load of humans in dynamics and robotics experiments, leading to more accurate and efficient control.",
+    "EXPT": {
+        "TITLE": "Cognitive Load Reduction Experiment",
+        "OBJECTIVE": "To investigate the effect of AR on cognitive load in dynamics and robotics experiments.",
+        "EQUIPMENT": "HoloLens 2, LEWIS5 sensor, electrodynamic exciter, robot arm, MATLAB software",
+        "STEPS": [
+            "1. Recruit 20 participants with experience in dynamics and robotics experiments.",
+            "2. Divide participants into two groups: AR group and traditional control group.",
+            "3. Have each participant perform a series of experiments using either AR or traditional control methods.",
+            "4. Measure the time taken to complete each experiment and the accuracy of the results.",
+            "5. Use a cognitive load questionnaire to assess the participants' perceived cognitive load.",
+            "6. Compare the results between the two groups to determine if AR reduces cognitive load."
+        ]
+    }
+}
+{
+    "HYP": "The use of Design Thinking in designing a mobile-based application can improve the online shopping experience of customers and increase customer satisfaction.",
+    "EXPT": {
+        "TITLE": "Validation of Design Thinking in Mobile-Based Application Design",
+        "OBJECTIVE": "To validate the hypothesis that the use of Design Thinking in designing a mobile-based application can improve the online shopping experience of customers and increase customer satisfaction.",
+        "REQUIRED EQUIPMENT": "Mobile devices with the designed application, SUS and SEQ questionnaires, and a sample of 100 customers.",
+        "STEPS TO FOLLOW": [
+            "1. Recruit 100 customers and divide them into two groups: a control group and an experimental group.",
+            "2. Provide the control group with the current online shopping experience of Celcius store.",
+            "3. Provide the experimental group with the designed mobile-based application.",
+            "4. Ask both groups to complete a task of purchasing a product online.",
+            "5. Administer the SUS and SEQ questionnaires to both groups after completing the task.",
+            "6. Compare the results of the SUS and SEQ questionnaires between the two groups.",
+            "7. Analyze the results to determine if the designed mobile-based application improves the online shopping experience of customers and increases customer satisfaction."
+        ]
+    }
+}
+{
+    "HYP": "The use of Design Thinking in mobile application development leads to a significant improvement in user experience and sales.",
+    "EXPT": {
+        "TITLE": "Evaluating the Effectiveness of Design Thinking in Mobile Application Development",
+        "OBJECTIVE": "To validate the hypothesis that the use of Design Thinking in mobile application development leads to a significant improvement in user experience and sales.",
+        "METHODS": [
+            "Recruit 100 participants to test two versions of a mobile application: one developed using Design Thinking and the other using traditional development methods.",
+            "Ask participants to complete a series of tasks on both applications and provide feedback on their experience.",
+            "Measure the time taken to complete tasks, user satisfaction, and sales conversion rates for both applications.",
+            "Compare the results to determine if the application developed using Design Thinking performs better than the traditional application."
+        ],
+        "EQUIPMENT": [
+            "Mobile devices with the two versions of the application installed",
+            "Survey software to collect user feedback",
+            " Stopwatch or timer to measure task completion time"
+        ]
+    }
+}
+{
+    "HYP": "The use of Design Thinking method in designing a mobile application for UMKM products can increase the user engagement and satisfaction, leading to an increase in sales and revenue for UMKM actors.",
+    "EXPT": {
+        "Title": "Design Thinking Method in Mobile Application Design for UMKM Products",
+        "Objective": "To validate the hypothesis that the use of Design Thinking method in designing a mobile application for UMKM products can increase user engagement and satisfaction, leading to an increase in sales and revenue for UMKM actors.",
+        "Equipment": "Mobile devices, Design Thinking toolkit, survey questionnaire, and sales data tracking software.",
+        "Steps": [
+            "Recruit 100 UMKM actors and 100 consumers to participate in the study.",
+            "Divide the participants into two groups: control group and experimental group.",
+            "Design a mobile application for UMKM products using the Design Thinking method for the experimental group.",
+            "Conduct a survey to measure user engagement and satisfaction for both groups.",
+            "Track sales data for both groups for a period of 3 months.",
+            "Compare the results of the survey and sales data between the two groups to validate the hypothesis."
+        ]
+    }
+}
+{
+    "HYP": "The use of ECAs that incorporate emotional intelligence and empathy will lead to more effective MI interventions and improved health-related behaviors compared to ECAs that do not incorporate these features.",
+    "EXPT": "To validate this hypothesis, a randomized controlled trial could be conducted to compare the effectiveness of two ECAs: one that incorporates emotional intelligence and empathy, and one that does not. The experiment would require: * 100 participants with a specific health-related behavior (e.g. physical inactivity) * Two ECAs: one with emotional intelligence and empathy, and one without * A motivational interviewing intervention delivered through each ECA * Measures of acceptability, usability, and user experience * Measures of health-related behavior change (e.g. physical activity levels) The experiment would involve randomly assigning participants to either the ECA with emotional intelligence and empathy or the ECA without. Both ECAs would deliver the same MI intervention, and participants would interact with the ECA for a set period of time. The outcome measures would be compared between the two groups to determine if the ECA with emotional intelligence and empathy is more effective in promoting health-related behavior change."
+}
+{
+    "HYP": "The use of Lean UX methodology in website redesign can lead to a significant improvement in user experience and satisfaction, particularly for e-commerce websites.",
+    "EXPT": {
+        "TITLE": "Validation of Lean UX Methodology in Website Redesign",
+        "OBJECTIVE": "To validate the hypothesis that the use of Lean UX methodology in website redesign can lead to a significant improvement in user experience and satisfaction.",
+        "METHODS": [
+            "Recruit 100 participants and divide them into two groups: a control group and an experimental group.",
+            "Ask the control group to use the original Ventela website and the experimental group to use the redesigned website using Lean UX methodology.",
+            "Measure user experience and satisfaction using surveys and usability testing.",
+            "Compare the results between the two groups to determine if there is a significant difference in user experience and satisfaction."
+        ],
+        "EQUIPMENT": [
+            "Computers with internet access",
+            "Survey software",
+            "Usability testing software"
+        ]
+    }
+}
+{
+    "HYP": "The use of TOPSIS method can significantly improve the energy performance of e-commerce development strategies by identifying the most effective strategies that meet the criteria of feasibility, implementation speed, compliance with corporate strategy, and customer acceptance.",
+    "EXPT": "To validate the hypothesis, an experiment can be designed as follows: Equipment required: * A dataset of e-commerce development strategies * TOPSIS software or programming language (e.g. Python) * Criteria weights for feasibility, implementation speed, compliance with corporate strategy, and customer acceptance Steps to follow: 1. Collect a dataset of e-commerce development strategies from various companies. 2. Determine the criteria weights for feasibility, implementation speed, compliance with corporate strategy, and customer acceptance based on expert opinions or literature review. 3. Use TOPSIS software or programming language to evaluate and rank the e-commerce development strategies based on the criteria weights. 4. Analyze the results to identify the top-ranked strategies that meet the criteria of feasibility, implementation speed, compliance with corporate strategy, and customer acceptance. 5. Compare the results with the actual performance of the companies that implemented the top-ranked strategies to validate the effectiveness of the TOPSIS method."
+}
+{
+    "HYP": "The use of UQE-3D can improve the design of 3D user interfaces for the elderly, leading to increased user satisfaction and engagement.",
+    "EXPT": {
+        "TITLE": "Validation of UQE-3D in improving 3D user interface design for the elderly",
+        "EQUIPMENT": "VR headset, 3D user interface prototype, UQE-3D questionnaire",
+        "STEPS": [
+            "Recruit 30 elderly participants",
+            "Divide participants into two groups: control group and experimental group",
+            "Have control group interact with a 3D user interface designed without UQE-3D, and experimental group interact with a 3D user interface designed with UQE-3D",
+            "Administer UQE-3D questionnaire to both groups after interaction",
+            "Compare user satisfaction and engagement scores between the two groups"
+        ]
+    }
+}
+{
+    "HYP": "The use of VLC technology in haptic tele-weight devices can improve the user experience in virtual shopping by providing a more immersive and realistic interaction with virtual products.",
+    "EXPT": {
+        "TITLE": "Validation of VLC-based Haptic Tele-Weight Device",
+        "OBJECTIVE": "To validate the hypothesis that the use of VLC technology in haptic tele-weight devices can improve the user experience in virtual shopping.",
+        "EQUIPMENT": "VLC tele-weight device, virtual reality headset, weight sensors, load cell, Arduino Nano, pre-equalizer circuit, post-equalizer circuit, phototransistor, motor, and a computer with virtual store software.",
+        "STEPS": [
+            "1. Set up the VLC tele-weight device and virtual reality headset.",
+            "2. Create a virtual store with various products of different weights.",
+            "3. Have participants use the VLC tele-weight device to interact with the virtual products and rate their experience.",
+            "4. Compare the user experience ratings with a control group that uses a traditional virtual shopping interface without haptic feedback.",
+            "5. Analyze the results to determine if the VLC-based haptic tele-weight device improves the user experience in virtual shopping."
+        ]
+    }
+}
+{
+    "HYP": "The use of a MERN stack-based e-commerce website can improve the user experience and conversion rates compared to traditional e-commerce platforms.",
+    "EXPT": {
+        "Objective": "To compare the user experience and conversion rates of a MERN stack-based e-commerce website with a traditional e-commerce platform.",
+        "Equipment": "Two identical e-commerce websites, one built using the MERN stack and the other using a traditional platform, user experience testing software, and analytics tools.",
+        "Steps": [
+            "1. Develop two identical e-commerce websites, one using the MERN stack and the other using a traditional platform.",
+            "2. Recruit a group of users to test both websites and provide feedback on user experience.",
+            "3. Use user experience testing software to collect data on metrics such as page load time, navigation, and search functionality.",
+            "4. Analyze the data to compare the user experience of both websites.",
+            "5. Use analytics tools to track conversion rates and sales for both websites.",
+            "6. Compare the results to determine if the MERN stack-based website outperforms the traditional platform."
+        ]
+    }
+}
+{
+    "HYP": "The use of a Web-based monitoring system for power tilt-in-space wheelchairs can improve the adoption of optimal tilt usage and reduce the incidence of pressure ulcers in wheelchair users.",
+    "EXPT": {
+        "Objective": "To validate the hypothesis that the use of a Web-based monitoring system for power tilt-in-space wheelchairs can improve the adoption of optimal tilt usage and reduce the incidence of pressure ulcers in wheelchair users.",
+        "Design": "Randomized controlled trial",
+        "Participants": "100 wheelchair users with power tilt-in-space wheelchairs",
+        "Intervention": "Participants will be randomly assigned to either a control group or an intervention group. The intervention group will use the Web-based monitoring system for 6 months, while the control group will receive standard care.",
+        "Outcome measures": "Adoption of optimal tilt usage, incidence of pressure ulcers, and user satisfaction",
+        "Equipment": "Power tilt-in-space wheelchairs, Web-based monitoring system, pressure ulcer assessment tools",
+        "Steps": "1. Recruit participants and assign them to either the control or intervention group. 2. Provide training on the use of the Web-based monitoring system to the intervention group. 3. Collect data on adoption of optimal tilt usage and incidence of pressure ulcers at baseline, 3 months, and 6 months. 4. Analyze data using intention-to-treat principle."
+    }
+}
+{
+    "HYP": "The use of a conversational agent with a clearly defined role, personality, and emotional tone can increase user trust and engagement in autonomous vehicles.",
+    "EXPT": {
+        "Title": "Evaluating the Effect of Conversational Agent Personality on User Trust in Autonomous Vehicles",
+        "Equipment": "Autonomous vehicle simulator, conversational agent software, participant recruitment and survey tools",
+        "Steps": [
+            "Recruit participants and randomly assign them to one of two conditions: a conversational agent with a clearly defined role, personality, and emotional tone, or a neutral conversational agent.",
+            "Have participants complete a series of tasks in the autonomous vehicle simulator, interacting with the assigned conversational agent.",
+            "Measure participant trust and engagement through surveys and behavioral metrics (e.g., time spent interacting with the agent).",
+            "Compare the results between the two conditions to determine if the conversational agent with a clearly defined role, personality, and emotional tone increases user trust and engagement."
+        ]
+    }
+}
+{
+    "HYP": "The use of a design thinking approach in developing a livestock sales website can increase the efficiency and effectiveness of livestock trading, leading to increased economic benefits for farmers and traders.",
+    "EXPT": {
+        "TITLE": "Evaluating the Effectiveness of a Design Thinking Approach in Livestock Sales Website Development",
+        "OBJECTIVE": "To investigate the impact of a design thinking approach on the efficiency and effectiveness of livestock trading using a web-based platform.",
+        "METHODS": [
+            "Recruit 100 farmers and traders to participate in the study.",
+            "Divide participants into two groups: a control group using a traditional livestock trading method and an experimental group using the design thinking-based livestock sales website.",
+            "Measure the time and cost of livestock trading for both groups.",
+            "Conduct surveys to assess user satisfaction and ease of use of the website.",
+            "Compare the results between the two groups to determine the effectiveness of the design thinking approach."
+        ],
+        "EQUIPMENT": [
+            "Computers or mobile devices with internet access",
+            "Survey software or tools",
+            "Timing and cost tracking software or tools"
+        ]
+    }
+}
+{
+    "HYP": "The use of a design thinking approach in the development of a mental health education application can lead to a higher level of user engagement and motivation to learn about mental health.",
+    "EXPT": {
+        "Title": "Evaluating the Effectiveness of a Design Thinking-Based Mental Health Education Application",
+        "Objective": "To compare the level of user engagement and motivation to learn about mental health between a design thinking-based application and a traditional application.",
+        "Equipment": "Two versions of the mental health education application (one developed using design thinking and one developed using a traditional approach), smartphones or tablets, internet connection, and a survey questionnaire.",
+        "Steps": [
+            "Recruit 100 participants and randomly assign them to use either the design thinking-based application or the traditional application.",
+            "Ask participants to use the assigned application for a set period of time (e.g., 2 weeks).",
+            "Administer a survey questionnaire to participants to assess their level of engagement and motivation to learn about mental health.",
+            "Compare the results between the two groups and analyze the data using statistical methods."
+        ]
+    }
+}
+{
+    "HYP": "The use of a digital dashboard and automated billing system can increase customer satisfaction and loyalty in hypermarkets.",
+    "EXPT": {
+        "TITLE": "Evaluating the Effect of Digital Dashboard and Automated Billing on Customer Satisfaction in Hypermarkets",
+        "OBJECTIVE": "To investigate the impact of a digital dashboard and automated billing system on customer satisfaction and loyalty in hypermarkets.",
+        "EQUIPMENT": "Hypermarket setup with digital dashboard and automated billing system, customer survey questionnaire, and data analysis software.",
+        "STEPS": [
+            "1. Select a hypermarket and implement the digital dashboard and automated billing system.",
+            "2. Recruit customers to participate in the study and provide them with a survey questionnaire to assess their satisfaction and loyalty before and after using the system.",
+            "3. Collect and analyze the data using statistical software to compare the customer satisfaction and loyalty scores before and after the implementation of the system.",
+            "4. Compare the results with a control group that does not use the digital dashboard and automated billing system."
+        ]
+    }
+}
+{
+    "HYP": "The use of a website for selling tilapia fish can increase sales and customer satisfaction by providing a convenient and efficient platform for transactions.",
+    "EXPT": {
+        "TITLE": "Evaluating the Effectiveness of a Tilapia Sales Website",
+        "OBJECTIVE": "To compare the sales and customer satisfaction of a tilapia fish business using a website versus traditional methods.",
+        "METHODS": [
+            "Recruit 100 customers to participate in the study.",
+            "Divide participants into two groups: one group will use the website to purchase tilapia fish, and the other group will use traditional methods.",
+            "Measure sales and customer satisfaction using surveys and sales data.",
+            "Compare the results between the two groups."
+        ],
+        "EQUIPMENT": [
+            "Computers with internet access",
+            "Survey software",
+            "Sales data tracking software"
+        ],
+        "EXPECTED OUTCOME": "The group using the website will have higher sales and customer satisfaction compared to the group using traditional methods."
+    }
+}
+{
+    "HYP": "The use of a well-designed UI and UX Law principles in a coffee shop's digital platform can increase customer loyalty and engagement, leading to increased sales and competitiveness in the market.",
+    "EXPT": {
+        "Title": "Evaluating the Effectiveness of a Well-Designed UI and UX Law Principles on Customer Loyalty and Engagement in a Coffee Shop's Digital Platform",
+        "Equipment": "Smartphones or computers with internet access, KURLEB website, survey questionnaire",
+        "Steps": [
+            "Recruit 100 participants and divide them into two groups: one group will use the current KURLEB website, and the other group will use the redesigned website with a well-designed UI and UX Law principles.",
+            "Ask participants to complete a survey questionnaire to assess their user experience, satisfaction, and loyalty to the coffee shop before and after using the website.",
+            "Compare the results of the two groups to evaluate the effectiveness of the redesigned website in increasing customer loyalty and engagement.",
+            "Conduct a follow-up survey after 3 months to assess the long-term impact of the redesigned website on customer loyalty and engagement."
+        ]
+    }
+}
+{
+    "HYP": "The use of ambient computation capacities and built-in smartphone sensors can significantly improve the gaming experience on mobile devices.",
+    "EXPT": {
+        "TITLE": "Validation of GBooster and UbiTouch",
+        "OBJECTIVE": "To validate the performance and energy efficiency of GBooster and UbiTouch in mobile gaming.",
+        "EQUIPMENT": "Mobile devices, gaming consoles, personal computers, Smart TVs, and smartphones with built-in sensors (proximity sensor, ambient light sensor, microphone, and gyroscope).",
+        "STEPS": [
+            "1. Implement GBooster and UbiTouch on mobile devices.",
+            "2. Select a set of GPU-intensive mobile games and run them on mobile devices with and without GBooster.",
+            "3. Measure the frame rates and energy consumption of the games with and without GBooster.",
+            "4. Evaluate the performance of UbiTouch by tracking finger movements and detecting touch actions.",
+            "5. Compare the results with and without UbiTouch."
+        ]
+    }
+}
+{
+    "HYP": "The use of augmented reality technology in human-machine interaction can improve the accuracy and efficiency of task completion.",
+    "EXPT": {
+        "TITLE": "Evaluating the Effectiveness of Augmented Reality in Human-Machine Interaction",
+        "OBJECTIVE": "To compare the performance of users using the proposed AR-based human-machine interaction method with traditional methods in completing a task.",
+        "EQUIPMENT": "AR wearable device, Leap Motion sensor, computer, task simulation software",
+        "STEPS": [
+            "Recruit 20 participants and divide them into two groups: one using the proposed AR-based method and the other using a traditional method.",
+            "Have each participant complete a task, such as assembling a virtual object, using their assigned method.",
+            "Measure the time taken to complete the task and the accuracy of the task completion.",
+            "Compare the results between the two groups and analyze the data to determine if the AR-based method is more effective."
+        ]
+    }
+}
+{
+    "HYP": "The use of chatbots in the construction materials trade can lead to a significant increase in sales and customer satisfaction, particularly among younger customers who are more familiar with digital technologies.",
+    "EXPT": {
+        "Objective": "To validate the hypothesis that the use of chatbots in the construction materials trade can lead to a significant increase in sales and customer satisfaction.",
+        "Equipment": "A chatbot platform, a website or mobile application, a customer database, and sales data analytics tools.",
+        "Steps": [
+            "1. Develop a chatbot platform that can assist customers in selecting and calculating the required building materials.",
+            "2. Integrate the chatbot platform with a website or mobile application.",
+            "3. Recruit a group of customers to participate in the experiment, divided into two groups: a control group that will use the traditional website or mobile application, and an experimental group that will use the chatbot platform.",
+            "4. Collect sales data and customer satisfaction surveys from both groups over a period of three months.",
+            "5. Analyze the data to compare the sales and customer satisfaction rates between the two groups."
+        ]
+    }
+}
+{
+    "HYP": "The use of clinical dashboards to visualize lymphedema data can improve the early identification and management of lymphedema in breast cancer patients, leading to better patient outcomes.",
+    "EXPT": {
+        "Objective": "To evaluate the effectiveness of a clinical dashboard in improving the early identification and management of lymphedema in breast cancer patients.",
+        "Design": "Randomized controlled trial",
+        "Participants": "Breast cancer patients at risk of developing lymphedema",
+        "Intervention": "Access to a clinical dashboard visualizing lymphedema data",
+        "Control": "Standard care without access to the dashboard",
+        "Outcome measures": "Time to diagnosis of lymphedema, severity of lymphedema, patient-reported outcomes",
+        "Equipment": "Clinical dashboard software, computers or tablets for data access, bioimpedance spectroscopy machine for lymphedema measurement",
+        "Steps": "1. Recruit participants and randomize to intervention or control group. 2. Provide access to the dashboard for the intervention group. 3. Collect outcome measures at baseline, 3 months, and 6 months. 4. Compare outcomes between groups."
+    }
+}
+{
+    "HYP": "The use of deep learning-based super-resolution algorithms can significantly improve the accuracy and robustness of hand tracking using mmWave radar, enabling new applications in human-computer interaction and gesture recognition.",
+    "EXPT": {
+        "Objective": "To validate the hypothesis by comparing the hand tracking accuracy of the proposed framework with traditional radar signal processing methods.",
+        "Equipment": "mmWave radar sensor, computer with deep learning software, musical instrument interface",
+        "Steps": [
+            "1. Collect radar data of hand movements using the mmWave radar sensor.",
+            "2. Process the data using traditional radar signal processing methods and the proposed deep learning-based super-resolution algorithm.",
+            "3. Compare the hand tracking accuracy of both methods using metrics such as mean squared error and root mean squared error.",
+            "4. Evaluate the robustness of the proposed framework to variations in hand movement speed, direction, and orientation."
+        ]
+    }
+}
+{
+    "HYP": "The use of design thinking approach in designing an e-commerce application can improve the user experience and usability of the application, leading to increased customer satisfaction and loyalty.",
+    "EXPT": "To validate this hypothesis, an experiment can be conducted as follows: 1. Recruit 20 participants, 10 administrators and 10 customers, to test the designed application. 2. Ask participants to complete a series of tasks on the application, such as searching for products, making a purchase, and tracking orders. 3. Measure the time taken to complete each task and the number of errors made. 4. Conduct a survey using the SUS and UEQ questionnaires to assess the usability and user experience of the application. 5. Compare the results with a control group that uses a traditional e-commerce application. Required equipment: Computers or mobile devices with internet access, SUS and UEQ questionnaires, and a stopwatch or timer. Steps to follow: 1) Recruit participants, 2) Brief participants on the tasks, 3) Conduct the experiment, 4) Collect and analyze data, 5) Compare results with the control group."
+}
+{
+    "HYP": "The use of gamification elements in virtual assembly planning can improve the retention of assembly skills and knowledge over time.",
+    "EXPT": {
+        "TITLE": "Long-term Retention of Assembly Skills with Gamification",
+        "OBJECTIVE": "To investigate the effect of gamification on the long-term retention of assembly skills and knowledge.",
+        "EQUIPMENT": "Multi-touch table, virtual assembly software, gamification elements (e.g. points, badges, leaderboards), and a control group without gamification.",
+        "STEPS": [
+            "Recruit participants and divide them into two groups: a gamified group and a control group.",
+            "Train both groups on a virtual assembly task using the same software and equipment.",
+            "Administer a pre-test to assess the participants' assembly skills and knowledge.",
+            "Have the gamified group complete the assembly task with gamification elements, while the control group completes the task without gamification.",
+            "Administer a post-test to assess the participants' assembly skills and knowledge immediately after the task.",
+            "Administer a retention test to assess the participants' assembly skills and knowledge after a period of 2-3 months.",
+            "Compare the results of the post-test and retention test between the gamified and control groups."
+        ]
+    }
+}
+{
+    "HYP": "The use of heuristic principles in mobile commerce application design can improve user experience and increase sales conversion rates.",
+    "EXPT": {
+        "TITLE": "Heuristic Principles in Mobile Commerce Application Design",
+        "OBJECTIVE": "To investigate the effect of heuristic principles on user experience and sales conversion rates in mobile commerce applications.",
+        "METHODS": "1. Recruit 100 participants and divide them into two groups: control group and experimental group. 2. Design two versions of a mobile commerce application: one with heuristic principles applied and one without. 3. Ask participants to complete a series of tasks on both applications, such as searching for products, adding to cart, and checking out. 4. Measure user experience using surveys and sales conversion rates using analytics tools. 5. Compare the results between the two groups.",
+        "EQUIPMENT": "Mobile devices with the two versions of the mobile commerce application, survey software, and analytics tools.",
+        "EXPECTED OUTCOME": "The experimental group will show higher user experience ratings and sales conversion rates compared to the control group, supporting the hypothesis that the use of heuristic principles in mobile commerce application design can improve user experience and increase sales conversion rates."
+    }
+}
+{
+    "HYP": "The use of hybrid recommendation filtering techniques that combine the strengths of collaborative filtering and content-based filtering can lead to more accurate and personalized recommendations, resulting in increased user engagement and conversion rates.",
+    "EXPT": {
+        "Title": "Hybrid Recommendation Filtering Experiment",
+        "Objective": "To validate the hypothesis that hybrid recommendation filtering techniques can lead to more accurate and personalized recommendations.",
+        "Equipment": "E-commerce platform with user interaction data, recommendation algorithms (collaborative filtering, content-based filtering, and hybrid), and evaluation metrics (precision, recall, coverage, and serendipity).",
+        "Steps": [
+            "Collect user interaction data from an e-commerce platform.",
+            "Implement collaborative filtering, content-based filtering, and hybrid recommendation algorithms.",
+            "Evaluate the performance of each algorithm using precision, recall, coverage, and serendipity metrics.",
+            "Compare the performance of the hybrid algorithm with the individual algorithms.",
+            "Analyze the results to determine if the hybrid algorithm leads to more accurate and personalized recommendations."
+        ]
+    }
+}
+{
+    "HYP": "The use of immersive virtual reality technology in retail environments can increase consumer engagement and purchase intention by providing a more realistic and interactive experience.",
+    "EXPT": {
+        "Objective": "To validate the hypothesis that immersive virtual reality technology can increase consumer engagement and purchase intention in retail environments.",
+        "Equipment": "Virtual reality headsets, data gloves, and a computer with a 3D virtual store environment.",
+        "Steps": [
+            "Recruit participants and randomly assign them to either a 2D or 3D virtual store environment.",
+            "Have participants complete a task in the assigned environment, such as browsing and selecting products.",
+            "Measure participants' engagement, enjoyment, satisfaction, and purchase intention using surveys and behavioral metrics.",
+            "Compare the results between the 2D and 3D environments to determine if the immersive technology has a significant impact on consumer behavior."
+        ]
+    }
+}
+{
+    "HYP": "The use of interactive flood risk tools like Inform can increase stakeholder engagement and participation in flood risk management decision-making processes, leading to more effective and sustainable flood risk reduction strategies.",
+    "EXPT": {
+        "Title": "Evaluating the Effectiveness of Inform in Stakeholder Engagement",
+        "Objective": "To assess the impact of Inform on stakeholder engagement and participation in flood risk management decision-making processes.",
+        "Equipment": "Inform tool, survey questionnaires, stakeholder groups",
+        "Steps": [
+            "Recruit stakeholder groups (n=50) with varying levels of flood risk management expertise",
+            "Divide stakeholders into two groups: one using Inform and one without",
+            "Conduct a flood risk management decision-making exercise using Inform for the treatment group",
+            "Administer survey questionnaires to both groups to assess engagement, participation, and perceived effectiveness of flood risk reduction strategies",
+            "Compare results between groups to evaluate the impact of Inform on stakeholder engagement and participation"
+        ]
+    }
+}
+{
+    "HYP": "The use of interactive visualization tools, such as LifeLines, can improve the analysis and understanding of temporal event sequences in various domains, leading to better decision-making and outcomes.",
+    "EXPT": {
+        "Title": "Evaluating the Effectiveness of Interactive Visualization Tools for Temporal Event Sequence Analysis",
+        "Objective": "To investigate the impact of interactive visualization tools on the analysis and understanding of temporal event sequences.",
+        "Equipment": "Computer with LifeLines software, dataset of temporal event sequences (e.g. medical records, transportation data), participants with varying levels of expertise in data analysis.",
+        "Steps": [
+            "Recruit participants and divide them into two groups: one using LifeLines and one using traditional analysis methods.",
+            "Provide participants with a dataset of temporal event sequences and ask them to analyze and identify patterns and trends.",
+            "Measure the time taken to complete the task, accuracy of results, and user satisfaction for both groups.",
+            "Compare the results between the two groups to determine the effectiveness of LifeLines in improving the analysis and understanding of temporal event sequences."
+        ]
+    }
+}
+{
+    "HYP": "The use of layout patterns in wireframing can increase the user engagement and conversion rate of a website.",
+    "EXPT": {
+        "TITLE": "The Effect of Layout Patterns on User Engagement and Conversion Rate",
+        "OBJECTIVE": "To investigate the effect of layout patterns on user engagement and conversion rate of a website.",
+        "METHODOLOGY": {
+            "PARTICIPANTS": "100 participants will be recruited for this study.",
+            "DESIGN": "A between-subjects design will be used, where participants will be randomly assigned to one of three groups: Gutenberg pattern, Z-pattern, and F-pattern.",
+            "TASK": "Participants will be asked to complete a task on a website with one of the three layout patterns.",
+            "MEASUREMENTS": "User engagement will be measured using time-on-task, click-through rate, and bounce rate. Conversion rate will be measured using the number of completed tasks."
+        },
+        "EQUIPMENT": {
+            "COMPUTERS": "100 computers with internet access",
+            "SOFTWARE": "Website with three different layout patterns",
+            "TOOLS": "Google Analytics"
+        },
+        "PROCEDURE": {
+            "STEP 1": "Recruit participants and assign them to one of the three groups.",
+            "STEP 2": "Ask participants to complete a task on the website with the assigned layout pattern.",
+            "STEP 3": "Measure user engagement and conversion rate using Google Analytics.",
+            "STEP 4": "Compare the results between the three groups."
+        }
+    }
+}
+{
+    "HYP": "The use of multi-sensory channels in virtual assembly systems can improve the learning efficiency and reduce the assembly time of learners.",
+    "EXPT": {
+        "TITLE": "Validation of Multi-Sensory Channels in Virtual Assembly Systems",
+        "OBJECTIVE": "To validate the hypothesis that the use of multi-sensory channels in virtual assembly systems can improve the learning efficiency and reduce the assembly time of learners.",
+        "EQUIPMENT": "Virtual assembly system with multi-sensory channels (gesture interaction, Chinese speech interaction, tactile interaction, 3D display, and real-time display of real environment pictures), Oculus Rift CV1, Leap Motion, computer with Unity platform",
+        "STEPS": [
+            "Recruit 20 participants with no prior experience in virtual assembly systems",
+            "Divide participants into two groups: one group uses the virtual assembly system with multi-sensory channels, and the other group uses a traditional virtual assembly system with single-sensory channel",
+            "Ask participants to complete a series of assembly tasks using the assigned system",
+            "Measure the time taken to complete each task and the number of errors made",
+            "Compare the results between the two groups to determine if the use of multi-sensory channels improves learning efficiency and reduces assembly time"
+        ]
+    }
+}
+{
+    "HYP": "The use of omnidirectional videos in Movie Map can reduce the cognitive load of users when exploring a city area, leading to a more efficient and enjoyable experience.",
+    "EXPT": {
+        "TITLE": "Cognitive Load Comparison between Movie Map and GSV",
+        "EQUIPMENT": "Eye-tracking device, computer with Movie Map and GSV interfaces, questionnaire",
+        "STEPS": [
+            "Recruit 20 participants and divide them into two groups: Movie Map group and GSV group.",
+            "Ask each participant to explore a city area using their assigned interface and complete a task (e.g., find a specific landmark).",
+            "Use an eye-tracking device to measure the participants' eye movements and pupil dilation during the task.",
+            "Administer a questionnaire to assess the participants' perceived cognitive load and satisfaction with the interface.",
+            "Compare the results between the two groups to determine if the Movie Map group shows reduced cognitive load and higher satisfaction."
+        ]
+    }
+}
+{
+    "HYP": "The use of personalized features, such as product recommendations and promotions, in an e-commerce platform can increase customer loyalty and retention among local retailers.",
+    "EXPT": {
+        "Objective": "To validate the hypothesis that personalized features in an e-commerce platform increase customer loyalty and retention among local retailers.",
+        "Equipment": "E-commerce platform with personalized features, customer database, survey software",
+        "Steps": [
+            "1. Develop an e-commerce platform with personalized features, such as product recommendations and promotions, tailored for local retailers.",
+            "2. Recruit a sample of local retailers to participate in the experiment.",
+            "3. Randomly assign half of the retailers to the treatment group, which will receive the personalized features, and the other half to the control group, which will not receive the personalized features.",
+            "4. Collect data on customer loyalty and retention metrics, such as repeat purchases and customer satisfaction, for both groups over a period of 6 months.",
+            "5. Analyze the data using statistical methods to compare the customer loyalty and retention metrics between the treatment and control groups.",
+            "6. Conduct surveys to gather feedback from customers on their experience with the personalized features and their impact on loyalty and retention."
+        ]
+    }
+}
+{
+    "HYP": "The use of the MERN stack in college website development can lead to significant improvements in user experience, scalability, and maintainability compared to traditional web development frameworks.",
+    "EXPT": {
+        "TITLE": "Comparative Analysis of MERN Stack and Traditional Web Development Frameworks",
+        "OBJECTIVE": "To compare the performance, scalability, and user experience of a college website developed using the MERN stack with a website developed using traditional web development frameworks.",
+        "EQUIPMENT": "Two identical college websites, one developed using the MERN stack and the other using traditional web development frameworks, a load testing tool, and a user experience survey tool.",
+        "STEPS": [
+            "Develop two identical college websites, one using the MERN stack and the other using traditional web development frameworks.",
+            "Conduct load testing on both websites to measure performance and scalability.",
+            "Conduct user experience surveys to measure user satisfaction and engagement.",
+            "Compare the results of the load testing and user experience surveys to determine the effectiveness of the MERN stack in improving user experience, scalability, and maintainability."
+        ]
+    }
+}
+{
+    "HYP": "The use of the five planes framework in designing a B2B e-commerce platform can improve the user experience and increase the adoption rate of the platform among textile industries.",
+    "EXPT": {
+        "TITLE": "Evaluating the Effectiveness of the Five Planes Framework in B2B E-commerce Design",
+        "OBJECTIVE": "To validate the hypothesis that the use of the five planes framework in designing a B2B e-commerce platform can improve the user experience and increase the adoption rate of the platform among textile industries.",
+        "REQUIRED EQUIPMENT": "A functional prototype of the B2B textile e-commerce platform designed using the five planes framework, a control group platform designed using a different methodology, and a survey questionnaire.",
+        "STEPS TO FOLLOW": [
+            "Recruit 100 textile industry professionals and divide them into two groups: one group will use the platform designed using the five planes framework, and the other group will use the control group platform.",
+            "Ask participants to complete a series of tasks on the platform, such as searching for products, placing orders, and managing inventory.",
+            "Administer a survey questionnaire to participants to gather feedback on their user experience, including usability, satisfaction, and intention to use the platform.",
+            "Compare the results of the two groups to determine if the platform designed using the five planes framework performs better in terms of user experience and adoption rate."
+        ]
+    }
+}
+{
+    "HYP": "The use of the waterfall method in developing an e-commerce website can increase the efficiency of sales management and competitiveness of the business.",
+    "EXPT": {
+        "TITLE": "Evaluating the Effectiveness of the Waterfall Method in E-commerce Website Development",
+        "OBJECTIVE": "To investigate whether the use of the waterfall method in developing an e-commerce website can increase the efficiency of sales management and competitiveness of the business.",
+        "REQUIRED EQUIPMENT": "Computer with internet connection, web development software, and testing tools.",
+        "STEPS TO FOLLOW": [
+            "1. Develop two e-commerce websites, one using the waterfall method and the other using an agile method.",
+            "2. Measure the time and cost of development, as well as the number of defects and changes required during the development process.",
+            "3. Conduct user testing and gather feedback on the usability and user experience of both websites.",
+            "4. Analyze the sales data and customer satisfaction ratings of both websites over a period of six months.",
+            "5. Compare the results and draw conclusions on the effectiveness of the waterfall method in e-commerce website development."
+        ]
+    }
+}
+{
+    "HYP": "The use of user research and ideation methods can improve the user experience and reduce the potential for failure in e-commerce applications.",
+    "EXPT": {
+        "TITLE": "Validating the Effectiveness of User Research and Ideation in E-commerce Applications",
+        "OBJECTIVE": "To investigate the effectiveness of user research and ideation methods in improving user experience and reducing the potential for failure in e-commerce applications.",
+        "EQUIPMENT": "Smartphones or computers with internet access, e-commerce application prototype, user research and ideation tools (e.g. Figma, Affinity Diagram).",
+        "STEPS": [
+            "Recruit 20 participants and divide them into two groups: one using the e-commerce application with user research and ideation, and the other without.",
+            "Ask participants to complete a series of tasks on the application and provide feedback on their experience.",
+            "Conduct usability testing and gather data on the effectiveness of the application in meeting user needs.",
+            "Compare the results of the two groups and analyze the data to determine the effectiveness of user research and ideation in improving user experience and reducing the potential for failure."
+        ]
+    }
+}
+{
+    "HYP": "The use of virtual humans in serious games can increase student engagement and motivation in educational settings.",
+    "EXPT": {
+        "TITLE": "Evaluating the Effect of Virtual Humans on Student Engagement in Serious Games",
+        "OBJECTIVE": "To investigate whether the use of virtual humans in serious games increases student engagement and motivation in educational settings.",
+        "METHODS": "Recruit 100 students and randomly assign them to two groups: a control group that plays a serious game without virtual humans and an experimental group that plays a serious game with virtual humans. Measure student engagement and motivation using surveys and observational data. Compare the results between the two groups.",
+        "EQUIPMENT": "Computers or gaming consoles with the serious game software, survey questionnaires, observational data collection tools.",
+        "STEPS": "1. Develop a serious game with and without virtual humans. 2. Recruit students and randomly assign them to the control or experimental group. 3. Have students play the game for 30 minutes. 4. Administer surveys to measure engagement and motivation. 5. Collect observational data on student behavior during gameplay. 6. Compare the results between the two groups."
+    }
+}
+{
+    "HYP": "The use of voice-based navigation UIs in tactile graphic readers can improve the overall user experience and accessibility for blind and visually impaired individuals.",
+    "EXPT": {
+        "Objective": "To validate the effectiveness of voice-based navigation UIs in tactile graphic readers.",
+        "Equipment": "Tactonom Reader device, tactile graphics with varying levels of complexity, audio recording software.",
+        "Steps": [
+            "Recruit 20 blind and visually impaired participants.",
+            "Divide participants into two groups: one using the voice-based navigation UI and the other using a traditional trial-and-error approach.",
+            "Ask participants to complete a series of tasks involving locating specific elements in tactile graphics using their assigned method.",
+            "Record the time taken to complete each task and the number of errors made.",
+            "Compare the results between the two groups to determine the effectiveness of the voice-based navigation UI."
+        ]
+    }
+}
+{
+    "HYP": "The use of white hat SEO techniques can significantly improve the visibility and attractiveness of SME websites, leading to increased website traffic and conversions.",
+    "EXPT": {
+        "TITLE": "Evaluating the Effectiveness of White Hat SEO Techniques on SME Website Visibility",
+        "OBJECTIVE": "To investigate the impact of white hat SEO techniques on SME website visibility and attractiveness.",
+        "REQUIRED EQUIPMENT": "Website development software, SEO tools (e.g. Google Analytics, Google Search Console), and a sample of SME websites.",
+        "STEPS TO FOLLOW": [
+            "1. Select a sample of SME websites and divide them into two groups: a control group and a treatment group.",
+            "2. Apply white hat SEO techniques to the treatment group, including keyword research, meta description optimization, and internal linking.",
+            "3. Monitor and track the website traffic, bounce rate, and conversion rate of both groups using SEO tools.",
+            "4. Compare the results of the two groups to determine the effectiveness of white hat SEO techniques in improving website visibility and attractiveness."
+        ]
+    }
+}
+{
+    "HYP": "Users who use maternal and infant health apps that offer social support and responsive customer care support are more likely to continue using the app and have better health outcomes.",
+    "EXPT": {
+        "Title": "The Effect of Social Support and Customer Care Support on Maternal and Infant Health App Engagement",
+        "Objective": "To investigate the effect of social support and customer care support on maternal and infant health app engagement and health outcomes.",
+        "Design": "Randomized controlled trial",
+        "Participants": "100 pregnant women or new mothers",
+        "Intervention": "Participants will be randomly assigned to one of two groups: a control group that uses a standard maternal and infant health app, and an intervention group that uses an app with enhanced social support and customer care support features.",
+        "Outcome Measures": "App engagement (e.g., frequency of use, duration of use), health outcomes (e.g., birth weight, breastfeeding rates), and user satisfaction.",
+        "Equipment": "Smartphones, maternal and infant health apps with social support and customer care support features, and data analysis software.",
+        "Steps": "1. Recruit participants and randomly assign them to either the control or intervention group. 2. Provide participants with the assigned app and instruct them on how to use it. 3. Collect data on app engagement and health outcomes at 3, 6, and 12 months postpartum. 4. Analyze data using statistical software and compare outcomes between the control and intervention groups."
+    }
+}
+{
+    "HYP": "Visually impaired individuals will have improved spatial controllability when using a spatial region array with a larger target size and a more intuitive spatial partitioning strategy.",
+    "EXPT": {
+        "TITLE": "Evaluating the Effect of Target Size and Spatial Partitioning on Spatial Controllability in Visually Impaired Individuals",
+        "EQUIPMENT": "Leap Motion controller, computer, Unity 3D software, and a spatial region array with varying target sizes and partitioning strategies",
+        "STEPS": [
+            "Recruit 20 visually impaired participants and 20 sighted participants",
+            "Have each participant complete a series of target selection tasks using the Leap Motion controller and the spatial region array with varying target sizes and partitioning strategies",
+            "Record the participants' performance and spatial controllability patterns",
+            "Compare the results between the visually impaired and sighted groups to evaluate the effect of target size and spatial partitioning on spatial controllability"
+        ]
+    }
+}
+{
+    "HYP": "XR technologies can increase student motivation and engagement in learning by providing immersive and interactive experiences that simulate real-world situations.",
+    "EXPT": {
+        "Title": "XR-based Learning Experience",
+        "Objective": "To investigate the effect of XR-based learning experiences on student motivation and engagement.",
+        "Equipment": "XR headsets, computers, and educational software",
+        "Steps": [
+            "Recruit 100 students and randomly assign them to either an XR-based learning group or a traditional learning group.",
+            "Design an XR-based learning experience that simulates a real-world situation relevant to the subject matter.",
+            "Administer a pre-test to assess students' motivation and engagement levels.",
+            "Have students in the XR-based learning group participate in the XR-based learning experience, while students in the traditional learning group receive traditional instruction.",
+            "Administer a post-test to assess students' motivation and engagement levels.",
+            "Compare the results of the pre-test and post-test to determine the effect of XR-based learning experiences on student motivation and engagement."
+        ]
+    }
+}
